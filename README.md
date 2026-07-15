@@ -10,6 +10,7 @@ My leetocde solutions
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/gourab2307/leetcode-solutions/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gourab2307/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/gourab2307/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gourab2307/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -18,10 +19,12 @@ My leetocde solutions
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/gourab2307/leetcode-solutions/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gourab2307/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/gourab2307/leetcode-solutions/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gourab2307/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/gourab2307/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gourab2307/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -33,4 +36,8 @@ My leetocde solutions
 | [0450-delete-node-in-a-bst](https://github.com/gourab2307/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gourab2307/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/gourab2307/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/gourab2307/leetcode-solutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
