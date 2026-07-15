@@ -11,6 +11,7 @@ My leetocde solutions
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/gourab2307/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0450-delete-node-in-a-bst](https://github.com/gourab2307/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -19,4 +20,9 @@ My leetocde solutions
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/gourab2307/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0450-delete-node-in-a-bst](https://github.com/gourab2307/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/gourab2307/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
