@@ -69,4 +69,20 @@ My leetocde solutions
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gourab2307/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/gourab2307/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Array
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/gourab2307/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
+## Hash Table
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/gourab2307/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
+## Greedy
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/gourab2307/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/gourab2307/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 <!---LeetCode Topics End-->
