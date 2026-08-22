@@ -97,6 +97,7 @@ My leetocde solutions
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/gourab2307/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/gourab2307/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Combinatorics
 |  |
 | ------- |
