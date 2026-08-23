@@ -84,6 +84,7 @@ My leetocde solutions
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/gourab2307/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/gourab2307/leetcode-solutions/tree/master/1927-sum-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -96,6 +97,7 @@ My leetocde solutions
 ## Math
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/gourab2307/leetcode-solutions/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/gourab2307/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/gourab2307/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Combinatorics
@@ -106,4 +108,12 @@ My leetocde solutions
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/gourab2307/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## String
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/gourab2307/leetcode-solutions/tree/master/1927-sum-game) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/gourab2307/leetcode-solutions/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
