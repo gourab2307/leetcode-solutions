@@ -21,6 +21,7 @@ My leetocde solutions
 | [0700-search-in-a-binary-search-tree](https://github.com/gourab2307/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/gourab2307/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/gourab2307/leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/gourab2307/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -28,6 +29,7 @@ My leetocde solutions
 | [0100-same-tree](https://github.com/gourab2307/leetcode-solutions/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gourab2307/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/gourab2307/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/gourab2307/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -40,6 +42,7 @@ My leetocde solutions
 | [0700-search-in-a-binary-search-tree](https://github.com/gourab2307/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/gourab2307/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/gourab2307/leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/gourab2307/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
