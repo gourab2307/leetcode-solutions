@@ -81,6 +81,7 @@ My leetocde solutions
 ## Array
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/gourab2307/leetcode-solutions/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/gourab2307/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1872-stone-game-viii](https://github.com/gourab2307/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/gourab2307/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -196,5 +197,6 @@ My leetocde solutions
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/gourab2307/leetcode-solutions/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/gourab2307/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
