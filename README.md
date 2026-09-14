@@ -123,6 +123,7 @@ My leetocde solutions
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/gourab2307/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1872-stone-game-viii](https://github.com/gourab2307/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/gourab2307/leetcode-solutions/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/gourab2307/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -199,4 +200,8 @@ My leetocde solutions
 | ------- |
 | [0835-image-overlap](https://github.com/gourab2307/leetcode-solutions/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/gourab2307/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/gourab2307/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
