@@ -165,6 +165,7 @@ My leetocde solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gourab2307/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/gourab2307/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/gourab2307/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/gourab2307/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/gourab2307/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -183,6 +184,7 @@ My leetocde solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/gourab2307/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/gourab2307/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/gourab2307/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/gourab2307/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -248,6 +250,11 @@ My leetocde solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gourab2307/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/gourab2307/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/gourab2307/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/gourab2307/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/gourab2307/leetcode-solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
