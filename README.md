@@ -11,6 +11,7 @@ My leetocde solutions
 | [0094-binary-tree-inorder-traversal](https://github.com/gourab2307/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gourab2307/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/gourab2307/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/gourab2307/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/gourab2307/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/gourab2307/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Tree
@@ -121,6 +122,7 @@ My leetocde solutions
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/gourab2307/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1386-cinema-seat-allocation](https://github.com/gourab2307/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/gourab2307/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/gourab2307/leetcode-solutions/tree/master/1927-sum-game) |
@@ -168,6 +170,7 @@ My leetocde solutions
 | [0020-valid-parentheses](https://github.com/gourab2307/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/gourab2307/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/gourab2307/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/gourab2307/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/gourab2307/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/gourab2307/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/gourab2307/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -188,6 +191,7 @@ My leetocde solutions
 | ------- |
 | [0022-generate-parentheses](https://github.com/gourab2307/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/gourab2307/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/gourab2307/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/gourab2307/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/gourab2307/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/gourab2307/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -255,6 +259,7 @@ My leetocde solutions
 | [0020-valid-parentheses](https://github.com/gourab2307/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/gourab2307/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/gourab2307/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/gourab2307/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/gourab2307/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/gourab2307/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Backtracking
