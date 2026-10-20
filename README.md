@@ -119,6 +119,7 @@ My leetocde solutions
 | [3727-maximum-alternating-sum-of-squares](https://github.com/gourab2307/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/gourab2307/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/gourab2307/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/gourab2307/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3904-smallest-stable-index-ii](https://github.com/gourab2307/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
@@ -178,6 +179,7 @@ My leetocde solutions
 | [3871-count-commas-in-range-ii](https://github.com/gourab2307/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/gourab2307/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/gourab2307/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/gourab2307/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Combinatorics
 |  |
 | ------- |
@@ -258,6 +260,7 @@ My leetocde solutions
 | [3483-unique-3-digit-even-numbers](https://github.com/gourab2307/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/gourab2307/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/gourab2307/leetcode-solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3886-sum-of-sortable-integers](https://github.com/gourab2307/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Union-Find
 |  |
 | ------- |
@@ -271,6 +274,7 @@ My leetocde solutions
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/gourab2307/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/gourab2307/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/gourab2307/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/gourab2307/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Matrix
 |  |
 | ------- |
