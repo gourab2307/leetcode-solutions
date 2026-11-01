@@ -99,6 +99,7 @@ My leetocde solutions
 ## Array
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/gourab2307/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0835-image-overlap](https://github.com/gourab2307/leetcode-solutions/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/gourab2307/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/gourab2307/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
@@ -177,6 +178,7 @@ My leetocde solutions
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/gourab2307/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/gourab2307/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/gourab2307/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/gourab2307/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
