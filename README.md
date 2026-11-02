@@ -100,6 +100,7 @@ My leetocde solutions
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/gourab2307/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gourab2307/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0835-image-overlap](https://github.com/gourab2307/leetcode-solutions/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/gourab2307/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/gourab2307/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
@@ -179,6 +180,7 @@ My leetocde solutions
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/gourab2307/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gourab2307/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/gourab2307/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/gourab2307/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/gourab2307/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -288,6 +290,7 @@ My leetocde solutions
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gourab2307/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/gourab2307/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gourab2307/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/gourab2307/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
