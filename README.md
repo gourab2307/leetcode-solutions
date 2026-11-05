@@ -60,6 +60,7 @@ My leetocde solutions
 | [0450-delete-node-in-a-bst](https://github.com/gourab2307/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gourab2307/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/gourab2307/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/gourab2307/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/gourab2307/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/gourab2307/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gourab2307/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -94,6 +95,7 @@ My leetocde solutions
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gourab2307/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/gourab2307/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/gourab2307/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/gourab2307/leetcode-solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Array
@@ -103,6 +105,7 @@ My leetocde solutions
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gourab2307/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0835-image-overlap](https://github.com/gourab2307/leetcode-solutions/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/gourab2307/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/gourab2307/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/gourab2307/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/gourab2307/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/gourab2307/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -298,6 +301,7 @@ My leetocde solutions
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gourab2307/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/gourab2307/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/gourab2307/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gourab2307/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/gourab2307/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
