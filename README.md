@@ -100,6 +100,7 @@ My leetocde solutions
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gourab2307/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gourab2307/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/gourab2307/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/gourab2307/leetcode-solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/gourab2307/leetcode-solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Array
 |  |
@@ -244,6 +245,7 @@ My leetocde solutions
 | [1927-sum-game](https://github.com/gourab2307/leetcode-solutions/tree/master/1927-sum-game) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/gourab2307/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/gourab2307/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/gourab2307/leetcode-solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3498-reverse-degree-of-a-string](https://github.com/gourab2307/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/gourab2307/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/gourab2307/leetcode-solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -264,6 +266,7 @@ My leetocde solutions
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/gourab2307/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/gourab2307/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/gourab2307/leetcode-solutions/tree/master/1872-stone-game-viii) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/gourab2307/leetcode-solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/gourab2307/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/gourab2307/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/gourab2307/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
